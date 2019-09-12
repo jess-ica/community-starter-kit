@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- A bot that sends friendly messages to new users when they first interact in the repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Automatically greets new team members with a friendly message
+- Allows other team members to focus on the project rather than greeting every new member
+- Spreads positivity
 
 ## Getting started
 
