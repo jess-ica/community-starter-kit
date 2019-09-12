@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Welcome to our project! We look forward to working with you."
+"Nice to meet you, username! Thanks for the contribution :)"
+"Hello, username! Glad to have you on the team!"
